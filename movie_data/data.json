@@ -1,8 +1,10 @@
 [
     {
-        "data" : "data1"
+        "title" : "아바타",
+        "id" : "0"
     },
     {
-        "data" : "data2"
+        "title" : "영웅",
+        "id" : "1"
     }
 ]
